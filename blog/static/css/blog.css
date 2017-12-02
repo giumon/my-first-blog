@@ -46,3 +46,8 @@ a {
     margin-left: auto;
 }
 }
+
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
