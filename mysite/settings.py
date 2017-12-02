@@ -25,7 +25,7 @@ SECRET_KEY = '144c5ygk__7@(h@2!_d6c^@kio5x84icxg_ikr#0p^f#e0^5i7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [giumon.pythonanywhere.com]
+ALLOWED_HOSTS = ['giumon.pythonanywhere.com']
 
 
 # Application definition
